@@ -11,7 +11,7 @@ import SwiftUI
 struct GitDemoProjApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView() // This is ContentVIEW
         }
     }
 }
